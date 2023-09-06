@@ -7,7 +7,7 @@ public class darr {
 		 
 		darr audi=new darr();
 		audi.add(2,5);
-System.out.println(This is my);
+System.out.println(This is my name zainab);
 
 System.out.println(Hello world);
 }
