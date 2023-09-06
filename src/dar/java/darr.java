@@ -1,0 +1,19 @@
+package dar.java;
+
+public class darr {
+
+	int engine;
+	public static void main(String[] args) {
+		 
+		darr audi=new darr();
+		audi.add(2,5);
+
+}
+	void add(int a ,int b )
+	{
+		System.out.println(a+b);
+	}
+}
+	
+	
+	
