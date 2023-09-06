@@ -7,7 +7,7 @@ public class darr {
 		 
 		darr audi=new darr();
 		audi.add(2,5);
-System.out.println();
+System.out.println(This is my);
 }
 	void add(int a ,int b )
 	{
