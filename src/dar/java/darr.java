@@ -9,7 +9,7 @@ public class darr {
 		audi.add(2,5);
 System.out.println(This is my);
 
-System.out.println();
+System.out.println(Hello world);
 }
 	void add(int a ,int b )
 	{
